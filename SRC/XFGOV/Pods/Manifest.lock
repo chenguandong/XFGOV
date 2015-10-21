@@ -1,0 +1,13 @@
+PODS:
+  - MBProgressHUD (0.9.1)
+  - SVWebViewController (1.0)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.9.1)
+  - SVWebViewController
+
+SPEC CHECKSUMS:
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  SVWebViewController: c36dda7326e81fcae0abf5d02bf7bbf7e41be901
+
+COCOAPODS: 0.38.2
